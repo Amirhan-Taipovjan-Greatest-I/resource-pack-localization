@@ -14,9 +14,9 @@ So now y'all can easily translate your Resource Pack Description (for Me it actu
 }
 ```
 
-## What Translation Key should I use for the Description?
+## What Translation Key should I use for the Description and what message should be in Fallback?
 
-You can choose by Yourself... but if I was in Your place, then I prefer `"resourcepack.descriptionTranslation.<Resource Pack ID (or its Name, but w/o any spaces)>"`.
+You can choose by Yourself... but if I was in Your place, then I prefer `"resourcepack.descriptionTranslation.<Resource Pack ID (or its Name, but w/o any spaces)>"` and as Fallback message I prefer to use `en_us.json` Description.
 
 
 ## This is not working!
