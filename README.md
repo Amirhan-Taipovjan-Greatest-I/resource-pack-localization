@@ -14,6 +14,11 @@ So now y'all can easily translate your Resource Pack Description (for Me it actu
 }
 ```
 
+## What Translation Key should I use for the Description?
+
+You can choose by Yourself... but if I was in Your place, then I prefer "resourcepack.descriptionTranslation.<Resource Pack ID (or its Name, but w/o any spaces)>"
+
+
 ## This is not working!
 
 Oh no! Someone forgot, that translations appear only when Resource Pack used, not when it just appears as Available.
