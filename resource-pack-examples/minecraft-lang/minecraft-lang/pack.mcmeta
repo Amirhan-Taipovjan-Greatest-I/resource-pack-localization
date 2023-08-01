@@ -1,9 +1,0 @@
-{
-	"pack": {
-		"pack_format": 15,
-		"description": {
-			"translate": "resourcepack.descriptionTranslation.minecraft-lang",
-			"fallback": "Resource pack for translation testing"
-		}
-	}
-}
