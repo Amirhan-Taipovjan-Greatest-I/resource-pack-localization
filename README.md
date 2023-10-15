@@ -23,4 +23,4 @@ You can choose by Yourself... but if I was in Your place, then I prefer `"resour
 
 Oh no! Someone forgot, that translations appear only when Resource Pack used, not when it just appears as Available.
 When Resource Pack appears as Available, then its own Description uses Fallback message.
-When Resource Pack appears as Selected and then gets activated, then Description can be seen translated.
+When Resource Pack appears as Selected and then gets activated, then Description can be seen as translated.
