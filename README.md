@@ -9,8 +9,8 @@ So now y'all can easily translate your Resource Pack Description (for Me it actu
 "Fallback feature" is a good option, that used as Placeholder for the Translation Key if Translations don't load or something else happened with them.
 ```
 {
-			"translate": "<translation key>",
-			"fallback": "<placeholder that appears if there's no tranlsation detected for used translation key>"
+	"translate": "<translation key>",
+	"fallback": "<placeholder that appears if there's no tranlsation detected for used translation key>"
 }
 ```
 
